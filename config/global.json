@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "_default": {
+            "link": "eRespond"
+        }, 
+        "eRespond": {
+            "applicationId": "MXtZWjQd43oVRapHHfQ213Kls6EavtWpNrKez1lr", 
+            "masterKey": "2DJzokI4ZL9YcPV4Ror4HvQTVRnrcsYoKZooBKdo"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.2.17"
+    }
+}
